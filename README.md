@@ -18,6 +18,7 @@ på twitter og returnerer antall positive og negative tweets.
     Search term "påske" had a 77% positive sentiment.
 
 
+
 Ordlisten er oversatt fra dansk.
 
 # Credits
