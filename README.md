@@ -19,6 +19,7 @@ på twitter og returnerer antall positive og negative tweets.
 
 Ordlisten er oversatt fra dansk.
 
+
 # Credits
 
   Original author Chris MacLellan
