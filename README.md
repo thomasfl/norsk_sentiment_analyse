@@ -17,8 +17,12 @@ på twitter og returnerer antall positive og negative tweets.
     Positive tweets: 178
     Search term "påske" had a 77% positive sentiment.
 
-Ordlisten er oversatt fra dansk.
+# Sentiment analyse #
 
+Sentiment analyse er basert på en ordliste på 1561 ord, hvor hvert ord har en
+score mellom +4 og -4 avhengig av om ordet er positivt eller negativt.
+
+Ordlisten er oversatt fra dansk, og forhåpentligvis basert på en analyse av språket.
 
 # Credits
 
